@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Matumizi ya Nchi</string>
+    <string name="alert_mes">Unataka lugha gani?</string>
+    <string name="English">Kingereza</string>
+    <string name="Arabic">Kiarabu</string>
+
+    <string name="Canada">Canada</string>
+    <string name="Germany">Ujerumani</string>
+    <string name="China">China</string>
+    <string name="Egyte">Misri</string>
+    <string name="Spain">Uhispania</string>
+    <string name="argentina">argentina</string>
+    <string name="EuropeanUnion">Umoja wa Ulaya</string>
+    <string name="France">Ufaransa</string>
+    <string name="England">Uingereza</string>
+    <string name="Italy">Italia</string>
+    <string name="Brazil">Brazil</string>
+</resources>

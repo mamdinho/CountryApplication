@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Страна</string>
+    <string name="alert_mes">Which language do you prefar?</string>
+    <string name="English">английский</string>
+    <string name="Arabic">арабский</string>
+
+    <string name="Canada">Канада</string>
+    <string name="Germany">Германия</string>
+    <string name="China">Китай</string>
+    <string name="Egyte">Египет</string>
+    <string name="Spain">Испания</string>
+    <string name="argentina">Аргентина</string>
+    <string name="EuropeanUnion">Евросоюз</string>
+    <string name="France">Франция</string>
+    <string name="England">Англия</string>
+    <string name="Italy">Италия</string>
+    <string name="Brazil">Бразилия</string>
+</resources>
